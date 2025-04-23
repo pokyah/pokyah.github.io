@@ -8,12 +8,12 @@ subtitle: Géographe / Datascientist / Eco-facilitateur
 description: ''
 keywords:
 author: Thomas Goossens
-language: FR
+language: fr
 timezone: CEST
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://pokyah.github.io
+url: https://pokyah.github.io/project
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
