@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Thomas Goossens
-subtitle: Géographe / Datascientist / Eco-facilitateur
+title: Hexo
+subtitle: ''
 description: ''
 keywords:
-author: Thomas Goossens
-language: fr
+author: John Doe
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://pokyah.github.io/project
+url: http://example.com
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
